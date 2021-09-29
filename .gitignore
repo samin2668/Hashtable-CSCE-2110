@@ -1,0 +1,7 @@
+*.pdf
+*.csv
+*.txt
+test.cpp
+regexTest.cpp
+a.exe
+.vscode
